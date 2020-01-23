@@ -18,6 +18,7 @@ func main() {
 
 	mission1(g)
 	mission2(g)
+	fmt.Printf()
 }
 
 func mission1(g *pkg.Graph) {
